@@ -1,2 +1,2 @@
-function coolFunc(){ console.log("Hello, World!")}
+function coolFunc(){ console.log("Hello, World1!")}
 coolFunc();
